@@ -1,0 +1,8 @@
+OTU表： YS
+分类水平： OTU
+分组方案： YSLHH	
+		W1: DL
+		W2: YCS
+		W3: XHL2
+		W4: TLJ
+		W5: EBG

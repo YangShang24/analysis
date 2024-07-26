@@ -1,0 +1,5 @@
+OTU表： YS
+分类水平： OTU
+分组方案： WATERLHH	
+		WATER: DL, YCS, XHL2, TLJ, EBG
+		SEDIMENT: DL_N, YCS_N, XHL_N, TLJ_N, EBG_N

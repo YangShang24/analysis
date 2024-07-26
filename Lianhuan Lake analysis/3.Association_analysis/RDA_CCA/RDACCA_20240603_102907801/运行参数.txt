@@ -1,0 +1,14 @@
+OTU表： YS
+分类水平： Genus
+分组方案： YSLHH	
+		W1: DL
+		W2: YCS
+		W3: XHL2
+		W4: TLJ
+		W5: EBG
+		N1: DL_N
+		N2: YCS_N
+		N3: XHL_N
+		N4: TLJ_N
+		N5: EBG_N
+环境因子数据： LHHALL2:(TP	PH	TN	DO	WT	NH3_N	NO2_N)
