@@ -3,13 +3,16 @@ This Github repository contains the codes used to generate the results found in 
 
 File Descriptions
 1.OTU Analysis:
+
 otu_summary.xls: OTU summary data.
 otu_taxon.biom: OTU taxonomy data in BIOM format.
 otu_taxon.xls: OTU taxonomy data in Excel format.
 tax_summary_a/: Contains OTU taxonomy data summarized by different taxonomic levels (e.g., Class, Domain, Family, etc.).
 2.Composition:
+
 Venn/: Contains Venn diagram analysis results from different dates. Each subfolder includes a Venn diagram PDF file, corresponding table file, and explanatory document.
 3.Association Analysis:
+
 RDA_CCA/: Contains RDA/CCA analysis results, including species data, environmental data, importance analysis results, and corresponding charts.
 
 Usage Instructions
